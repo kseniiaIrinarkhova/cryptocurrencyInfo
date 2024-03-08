@@ -1,8 +1,6 @@
 
-function Main() {
+export default function Main() {
   return (
     <div>Main</div>
   )
 }
-
-export default Main
